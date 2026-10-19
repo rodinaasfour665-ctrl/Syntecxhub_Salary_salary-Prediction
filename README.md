@@ -59,5 +59,3 @@ Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, Joblib, Jupyter Notebo
 
 
 
-**[Your Name]** — Syntecxhub Intern  
-GitHub: **[Your GitHub profile URL]**
